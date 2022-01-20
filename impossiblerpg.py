@@ -1,4 +1,4 @@
-# Jeffrey Zhou, Ahmed Assal
+# Jeffrey Zhou
 # Sources: images were downloaded from flaticon.com and forums.rpgmakerweb.com,
 
 import pygame
